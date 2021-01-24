@@ -1,6 +1,6 @@
 # water_level_v2
 
-A new Flutter application.
+This is going to be updated version of this app, work in progress
 
 ## Getting Started
 
