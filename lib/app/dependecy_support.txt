@@ -1,0 +1,6 @@
+/// MVVM Structure - instructions
+
+stacked => https://pub.dev/packages/stacked
+stacked_services => https://pub.dev/packages/stacked_services
+auto_route => https://pub.dev/packages/auto_route
+injectable => https://pub.dev/packages/injectable
